@@ -1,0 +1,6 @@
+{
+	"yaml.schemas": {
+		"file:///Users/jsb/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+		"https://gitlab.com/appsemble/appsemble/-/raw/HEAD/packages/cli/assets/appsemblerc.schema.json": "file:///Users/jsb/Coding/flutter_packages/infobits_interactive_image/LICENSE"
+	}
+}
